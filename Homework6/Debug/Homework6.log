@@ -1,0 +1,5 @@
+﻿  Booklist_lastName.cpp
+  Homework6.cpp
+  正在生成代码...
+D:\Rutgers\Project\Homework6\Booklist_lastName.cpp(131,6): warning C4101: “result”: 未引用的局部变量
+  Homework6.vcxproj -> D:\Rutgers\Project\Homework6\Debug\Homework6.exe

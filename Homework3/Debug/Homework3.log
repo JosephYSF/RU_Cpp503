@@ -1,0 +1,5 @@
+﻿  Homework3.cpp
+D:\Rutgers\Project\Homework3\Homework3.cpp(216,8): warning C4101:  'temp': unreferenced local variable
+D:\Rutgers\Project\Homework3\Homework3.cpp(278,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Rutgers\Project\Homework3\Homework3.cpp(264,9): warning C4101:  'temp': unreferenced local variable
+  Homework3.vcxproj -> D:\Rutgers\Project\Homework3\Debug\Homework3.exe

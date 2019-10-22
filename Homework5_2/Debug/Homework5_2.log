@@ -1,0 +1,4 @@
+﻿  Homework5_2.cpp
+D:\Rutgers\Project\Homework5_2\Homework5_2.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Rutgers\Project\Homework5_2\Homework5_2.cpp(40): warning C4715: “p_Junmp”: 不是所有的控件路径都返回值
+  Homework5_2.vcxproj -> D:\Rutgers\Project\Homework5_2\Debug\Homework5_2.exe

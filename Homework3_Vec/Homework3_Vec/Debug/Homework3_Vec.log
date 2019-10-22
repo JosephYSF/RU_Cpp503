@@ -1,0 +1,5 @@
+﻿  Homework3_Vec.cpp
+D:\Rutgers\Project\Homework3_Vec\Homework3_Vec\Homework3_Vec.cpp(32,8): warning C4101: “temp”: 未引用的局部变量
+D:\Rutgers\Project\Homework3_Vec\Homework3_Vec\Homework3_Vec.cpp(215,8): warning C4101: “temp”: 未引用的局部变量
+D:\Rutgers\Project\Homework3_Vec\Homework3_Vec\Homework3_Vec.cpp(276,29): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Homework3_Vec.vcxproj -> D:\Rutgers\Project\Homework3_Vec\Debug\Homework3_Vec.exe
